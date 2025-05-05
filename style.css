@@ -7,4 +7,5 @@ body {
     height: 1000px;
     background-image: url("assets/root_tile.png");
     background-size: cover;
+    margin: 0px;
 }
