@@ -4,4 +4,5 @@ body {
 #root {
     height: 1000px;
     background-image: url("assets/root_tile.png");
+    background-size: contain;
 }
