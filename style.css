@@ -1,7 +1,7 @@
 body {
     background-image: url("assets/tile.png");
 }
-div {
+#root {
     height: 1000px;
-    border: 5px solid #ff0000;
+    background-image: url("assets/root_tile.png");
 }
