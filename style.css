@@ -8,4 +8,5 @@ body {
     background-image: url("assets/root_tile.png");
     background-size: cover;
     margin: 0px;
+    padding: 0px;
 }
