@@ -4,7 +4,7 @@ body {
     margin: 0px;
 }
 #root {
-    height: 1520px;
+    /*height: 1520px;*/
     background-image: url("assets/root_tile.png");
-    background-size: cover;
+    background-size: contain;
 }
