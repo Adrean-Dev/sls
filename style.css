@@ -4,8 +4,6 @@ body {
     margin: 0px;
 }
 #root {
-    background-image: url("assets/root_tile.png");
-    background-size: contain;
     height: 100%;
     width: 100%;
 }
