@@ -10,3 +10,9 @@ body {
 #msg {
     resize: both;
 }
+#text {
+    border: 1px solid #000000;
+    display: block;
+    width: 100%;
+    min-height: 40;
+}
